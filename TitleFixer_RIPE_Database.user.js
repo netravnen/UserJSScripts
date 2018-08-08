@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TitleFixer - RIPE Database
 // @namespace    github.com:netravnen:TitleFixer_RIPE_Database
-// @version      1.1.5.20180808
+// @version      1.1.6
 // @description  Change the title to something meaningful
 // @author       netravnen
 // @match        https://apps.db.ripe.net/search/lookup.html?source=*&key=*-RIPE&type=person
@@ -16,6 +16,7 @@
 // @UpdateURL    https://github.com/netravnen/UserJSScripts/raw/master/TitleFixer_RIPE_Database.user.js
 // @homepageURL  https://github.com/netravnen/UserJSScripts/raw/master/TitleFixer_RIPE_Database.user.js
 /**
+Update 1.1.6 2018-08-08 Moved source to https://github.com/netravnen/UserJSScripts/
 Update 1.1.5 2017-10-25 Updated namespace
 Update 1.1.4 2017-10-25 Updated author github nickname because was changed in the past + Added @homepageURL
 Update 1.1.3 2017-04-03 [..]
