@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         TitleFixer - RIPE Database
-// @namespace    github.com:netravnen:TitleFixer_RIPE_Database
+// @namespace    https://github.com/netravnen/UserJSScripts
 // @version      1.1.6
 // @description  Change the title to something meaningful
 // @author       netravnen
